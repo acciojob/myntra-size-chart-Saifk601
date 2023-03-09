@@ -1,2 +1,9 @@
-
+.test {
+	background-color:maroon;
+	border: 1px solid black;
+	color: white;
+}
+.t {
+	background-color:lightpink;
+}
 /* Your CSS Code here. */
